@@ -10,7 +10,7 @@
 
 ## exercise01
 1. What is visible in the browser? How is it different from the actual contents of the file itself, which you see in VS Code?
-I can see a basic webpage with my answers to to "Three things I hop to gain from this course:"
+I can see a basic webpage with my answers to to "Three things I hope to gain from this course:"
 2. What is invisible in the browser? How is it different from the actual contents of the file itself, which you see in VS Code?
 I can't see any of the code taglines.
 3. Use your browser's "view source" feature. What do you see?
